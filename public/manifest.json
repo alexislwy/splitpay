@@ -1,0 +1,10 @@
+{
+  "short_name": "SplitPay",
+  "name": "SplitPay 旅行分帳",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#080c18",
+  "theme_color": "#080c18",
+  "orientation": "portrait",
+  "icons": []
+}
